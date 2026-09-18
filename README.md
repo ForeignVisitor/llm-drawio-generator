@@ -75,11 +75,12 @@ uvicorn main:app --host 0.0.0.0 --port 8000
 ### 💻 Option 2: Locally with Files
 
 1. Download the necessary resources archive from this link:  
-   📦 [Download `.rar` file](https://drive.google.com/file/d/1juTLR8cXnwdFNHNTXVizJju0SCBS5kMW/view?usp=sharing) 
+   📦 [Download `.rar` file](https://drive.google.com/file/d/1juTLR8cXnwdFNHNTXVizJju0SCBS5kMW/view?usp=sharing)
+   (Contains pretrained model weights — too large for git, hosted separately.)
 
-2. Extract it directly into the `backend/` directory.
+3. Extract it directly into the `backend/` directory.
 
-3. Run the backend locally:
+4. Run the backend locally:
 
 ```bash
 cd backend
