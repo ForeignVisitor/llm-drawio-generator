@@ -108,7 +108,6 @@ There is a file called "testing.txt", you can find some prompts there to try out
 Feel free to reach out:
 
 - **Souhail Karam** – 📧 [souhailkaram.studies@gmail.com](mailto:souhailkaram.studies@gmail.com)
-- **Chaimaa El Argoubi** – 📧 [chaimae.elargoubi.studies@gmail.com](mailto:chaimae.elargoubi.studies@gmail.com)
 
 ---
 
